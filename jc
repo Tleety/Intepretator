@@ -1,0 +1,2 @@
+javac -classpath C:\Workspace\Intepretator\bin\ *.java
+
